@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;900&display=swap');
+
+*{
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+body{
+    background-color: rgb(195, 195, 195) !important;
+    padding: 12px;
+}
+
+.text-blue{
+    color: #0c0129;
+}
+
+.text-blue-data{
+    color: #0c0129;
+    font-size: 18px;
+}
+
+.text-purple{
+    color: #433158;
+}
+
+.footer{
+    font-size: 15px;
+    font-weight: lighter;
+    color: #1a0b45;
+}
